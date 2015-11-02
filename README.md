@@ -15,7 +15,7 @@ Why?
 --------------
 I've been started using Ansible since v1.7, and I wanted to list groups in inventory file, but not all hosts as in option "--list-hosts", also I wanted to display number of group members.
 
-After small search, I found the "--list-hosts" was able to list groups as well hosts, but reported as a bug because it's called "--list-hosts" not "--list-groups" (and this is actually logical :D) 
+After small search, I found the "--list-hosts" was able to list groups as well hosts, but reported as a bug because it's called "--list-hosts" not "--list-groups" (and this is actually logical :D), so I made a Ansible module to list groups and number of hosts in each group.
 
 
 Installation.
