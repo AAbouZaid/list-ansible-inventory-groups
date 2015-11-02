@@ -20,7 +20,7 @@ After small search, I found the "--list-hosts" was able to list groups as well h
 
 Installation.
 --------------
-Copy the script to Ansible modules path (make sure it's enabled in your ansible.cfg), and remember to give it execution premesstion.
+Copy the script to Ansible modules path (make sure it's enabled in your ansible.cfg), and remember to give it execution permission.
 By default it is:
 ```
 /usr/share/my_modules/
